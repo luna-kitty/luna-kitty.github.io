@@ -7,22 +7,14 @@
 	margin: auto;
 }
 
-.red {
-	background-color: red
+body{
+	background: linear-gradient(0deg,#b0f2b4, #baf2e9, #bad7f2, #f2bac9, #f2e2ba 100%);
 }
 
-.blue {
-	background-color: blue
-}
+ .modal-content {
+ 	background: linear-gradient(0deg,#b0f2b4,  #f2e2ba 100%);
+ }
 
-.green {
-	background-color: green
-}
-
-.yellow {
-	background-color: yellow
-}
-
-.pink {
-	background-color: pink
+iframe {
+	width: 100%;
 }
